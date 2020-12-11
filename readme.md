@@ -9,3 +9,4 @@ Exercises for the "What The Flexbox?!" video course. Videos available at <http:/
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 
 My [gh-page](https://herminiotorres.github.io/whattheflexbox) by [@herminiotorres](https://twitter.com/herminiotorres)
+# What-the-Flexbox-Wesbos-Course
